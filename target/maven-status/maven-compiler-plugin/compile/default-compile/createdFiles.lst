@@ -1,6 +1,12 @@
+com\node_modules\cofeshop\AdminController$OrderItem.class
+com\node_modules\cofeshop\POS_Controller.class
+com\node_modules\cofeshop\Admin.class
+com\node_modules\cofeshop\AdminController$2.class
 com\node_modules\cofeshop\POS_Controller$OrderItem.class
 com\node_modules\cofeshop\PrimaryController.class
 com\node_modules\cofeshop\SecondaryController.class
 module-info.class
+com\node_modules\cofeshop\AdminController$1.class
+com\node_modules\cofeshop\AdminController$Product.class
+com\node_modules\cofeshop\AdminController.class
 com\node_modules\cofeshop\App.class
-com\node_modules\cofeshop\POS_Controller.class
